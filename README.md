@@ -1,23 +1,12 @@
 # React App
 
-React,  context api ve Fake api ile hava durumu verilerini çeken react uygulaması.
-
-harici modüller 
-
-- "axios": "^0.27.2",
-- "formik": "^2.2.9",
+React application that pulls weather data with context api and fake api.
 
 
-* fake apiyi : calıştırmak için
-
-      cd "Fake Api"
-      npm run start:server
-
-* react uygulaması için
-
-      npm start
 
 
-* uygulama görüntüsü
+
+
+* application image
 
 ![Cevap1](Screenshot_1.png)
